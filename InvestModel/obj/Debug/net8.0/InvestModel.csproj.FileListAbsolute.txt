@@ -1,0 +1,14 @@
+D:\Карпов\InvestModel\InvestModel\bin\Debug\net8.0\InvestModel.exe
+D:\Карпов\InvestModel\InvestModel\bin\Debug\net8.0\InvestModel.deps.json
+D:\Карпов\InvestModel\InvestModel\bin\Debug\net8.0\InvestModel.runtimeconfig.json
+D:\Карпов\InvestModel\InvestModel\bin\Debug\net8.0\InvestModel.dll
+D:\Карпов\InvestModel\InvestModel\bin\Debug\net8.0\InvestModel.pdb
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.AssemblyInfoInputs.cache
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.AssemblyInfo.cs
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.csproj.CoreCompileInputs.cache
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.dll
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\refint\InvestModel.dll
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.pdb
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\InvestModel.genruntimeconfig.cache
+D:\Карпов\InvestModel\InvestModel\obj\Debug\net8.0\ref\InvestModel.dll
