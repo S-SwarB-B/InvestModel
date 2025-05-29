@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Карпов\\InvestModel\\InvestModel\\InvestModel.csproj",
+      "projectUniqueName": "D:\\Karpov\\InvestModel\\InvestModel\\InvestModel.csproj",
       "projectName": "InvestModel",
-      "projectPath": "D:\\Карпов\\InvestModel\\InvestModel\\InvestModel.csproj",
+      "projectPath": "D:\\Karpov\\InvestModel\\InvestModel\\InvestModel.csproj",
       "packagesPath": "C:\\Users\\КарповДА\\.nuget\\packages\\",
-      "outputPath": "D:\\Карпов\\InvestModel\\InvestModel\\obj\\",
+      "outputPath": "D:\\Karpov\\InvestModel\\InvestModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
